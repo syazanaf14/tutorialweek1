@@ -82,6 +82,7 @@ st.write("""
 - KURSUS JANGKA PENDEK MS PROJECT ANJURAN KOLEJ KOMUNITI PASIR GUDANG
 - Ceramah Kepimpinan Pelajar Era Vuca Peringkat Kebangsaan
 - Kursus Kepimpinan Peringkat Kebangsaan
+""")
 
 # --- Footer ---
 st.markdown("---")
