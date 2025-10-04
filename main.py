@@ -10,7 +10,7 @@ with col1:
     st.image("formalfatin.JPG", width=150) 
 with col2:
     st.title("Fatin Syazana Binti Azhar")
-    st.title("Final Year Student of Bachelor of Information Technology with Honours Track in Artificial Intelligence")
+    st.subheader("Final Year Student of Bachelor of Information Technology with Honours Track in Artificial Intelligence")
 
 st.markdown("---")
 
