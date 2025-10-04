@@ -62,19 +62,26 @@ st.header("🧠 Skills")
 cols = st.columns(2)
 with cols[0]:
     st.write("- Python")
-    st.write("- Streamlit")
-    st.write("- Data Visualization")
-with cols[1]:
+    st.write("- PHP")
     st.write("- SQL")
-    st.write("- Machine Learning (Scikit-learn)")
-    st.write("- Communication")
+    st.write("- C++")
+with cols[1]:
+    st.write("- Adobe Illustrator")
+    st.write("- Microsoft Excel")
+    st.write("- Microsoft Word")
+    st.write("- Android Studio")
 
 # --- Projects ---
 st.header("🚀 Projects & Achievements")
-st.write("**Smart Automated Clothesline (IoT Project)**")
-st.write("Designed a system using ESP8266, rain sensor, and Blynk app for smart drying automation.")
-st.write("**Resume Craft (Digital Entrepreneurship Project)**")
-st.write("Developed a web-based resume builder with AI-assisted customization.")
+st.write("""
+- Smart Rain Clothesline (IoT Project)
+- GOLDEN AWARD IN NATIONAL INNOVATION COMPETITION OF EDUCATION AND TECHNOLOGY 2021 (NICETECH21)
+- Golden Award in e-Seminar Penyelidikan Dan Inovasi Dalam Pendidikan 2021 (e-SPeDIP2021) 
+- Silver Award in Innovation Development Through Educatonal Activities (iDEA21)
+- WEBINAR STRATEGI PEMASARAN DIGITAL PERINGKAT KEBANGSAAN 2021
+- KURSUS JANGKA PENDEK MS PROJECT ANJURAN KOLEJ KOMUNITI PASIR GUDANG
+- Ceramah Kepimpinan Pelajar Era Vuca Peringkat Kebangsaan
+- Kursus Kepimpinan Peringkat Kebangsaan
 
 # --- Footer ---
 st.markdown("---")
