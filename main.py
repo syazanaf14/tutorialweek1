@@ -2,8 +2,8 @@ import streamlit as st
 
 # --- Profile Section ---
 st.set_page_config(page_title="My Resume", layout="wide")
-st.title("🌟 Fatin Syazana Binti Azhar")
-st.image("formalfatin.JPG", width=150)  # optional profile picture
+st.image("formalfatin.JPG", width=150) 
+st.title("Fatin Syazana Binti Azhar") 
 st.markdown("---")
 
 # --- Contact Information ---
