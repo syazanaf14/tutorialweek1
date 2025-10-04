@@ -24,13 +24,13 @@ st.write("[GitHub](https://github.com/syazanaf14)")
 
 # --- Education ---
 st.header("🎓 Education")
-st.write("**Currently in fifth semester : Bachelor of Information Technology with Honours Track in Artificial Intelligence** - Universiti Malaysia Kelantan (UMK)")
+st.write("**-Currently in fifth semester : Bachelor of Information Technology with Honours Track in Artificial Intelligence** - Universiti Malaysia Kelantan (UMK)")
 st.write("Expected Graduation: 2027")
-st.write("**Diploma in Database Management System Technology and Web Applications** - Kolej Vokasional Perdagangan Johor Bahru (KVPJB)")
+st.write("**-Diploma in Database Management System Technology and Web Applications** - Kolej Vokasional Perdagangan Johor Bahru (KVPJB)")
 st.write("Graduated: 2023")
-st.write("**Sekolah Menengah Kebangsaan Taman Daya**")
+st.write("**-Sekolah Menengah Kebangsaan Taman Daya**")
 st.write("Pentaksiran Tingkatan Tiga (PT3) | 2017")
-st.write("**Sekolah Kebangsaan Taman Daya 3**")
+st.write("**-Sekolah Kebangsaan Taman Daya 3**")
 st.write("Ujian Pencapaian Sekolah Rendah (UPSR) | 2014")
 
 # --- Work Experience ---
