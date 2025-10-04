@@ -16,22 +16,25 @@ st.markdown("---")
 
 # --- Contact Information ---
 st.header("📞 Contact Information")
-st.write("**Email:** fatin.azhar@example.com")
-st.write("**Phone:** +60 12-345 6789")
-st.write("[LinkedIn](https://linkedin.com/in/fatinazhar)")
-st.write("[GitHub](https://github.com/fatinazhar)")
+st.write("**Email:** s23b0125@umk.edu.my")
+st.write("**Phone:** +60 11-6366 0289")
+st.write("[LinkedIn](https://linkedin.com/in/fatin-syazana-azhar)")
+st.write("[GitHub](https://github.com/syazanaf14)")
 
 # --- Education ---
 st.header("🎓 Education")
-st.write("**Bachelor of Computer Science (Data Science)** - Universiti Teknologi MARA (UiTM)")
-st.write("_Expected Graduation: 2026_")
+st.write("**Currently in fifth semester-Bachelor of Information Technology with Honours Track in Artificial Intelligence** - Universiti Malaysia Kelantan (UMK)")
+st.write("_Expected Graduation: 2027")
+st.write("**Diploma in Database Management System Technology and Web Applications** - Kolej Vokasional Perdagangan Johor Bahru (KVPJB)")
+st.write("Graduated: 2023")
 
 # --- Work Experience ---
 st.header("💼 Work Experience")
-st.write("**Intern, Tech Solutions Sdn Bhd (June 2024 – Aug 2024)**")
+st.write("**Intern, Dreamztech Sdn Bhd (April 2022 – Aug 2022)**")
 st.write("""
-- Assisted in developing a data analytics dashboard using Python and Streamlit.
-- Cleaned and visualized company data to improve reporting efficiency.
+- Assisted in designing a web dashboard (front end).
+- Assisted in handling project (back end).
+- Assited in  group developing project for multiple project in various company of customers.
 """)
 
 # --- Skills ---
