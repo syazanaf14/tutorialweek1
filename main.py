@@ -23,13 +23,20 @@ st.write("[GitHub](https://github.com/syazanaf14)")
 
 # --- Education ---
 st.header("🎓 Education")
-st.write("**Currently in fifth semester-Bachelor of Information Technology with Honours Track in Artificial Intelligence** - Universiti Malaysia Kelantan (UMK)")
-st.write("_Expected Graduation: 2027")
+st.write("**Currently in fifth semester : Bachelor of Information Technology with Honours Track in Artificial Intelligence** - Universiti Malaysia Kelantan (UMK)")
+st.write("Expected Graduation: 2027")
 st.write("**Diploma in Database Management System Technology and Web Applications** - Kolej Vokasional Perdagangan Johor Bahru (KVPJB)")
 st.write("Graduated: 2023")
 
 # --- Work Experience ---
 st.header("💼 Work Experience")
+st.write("**Full Time Shop Assistant, Printcept Services (December 2022 – August 2023)**")
+st.write("""
+- Assisted in packing shopee order and shop order.
+- Assisted in sorting products.
+- Assisted in printing and cutting stickers, flyers, cards and etc.
+- Managed to sort out all the products in the store. 
+""")
 st.write("**Intern, Dreamztech Sdn Bhd (April 2022 – Aug 2022)**")
 st.write("""
 - Assisted in designing a web dashboard (front end).
@@ -58,4 +65,3 @@ st.write("Developed a web-based resume builder with AI-assisted customization.")
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("✨ _This webpage was built using Streamlit as part of a tutorial assignment._")
