@@ -16,6 +16,7 @@ st.markdown("---")
 
 # --- Contact Information ---
 st.header("📞 Contact Information")
+st.write("**Address:** No. 35, Jalan Setia 8/4, Taman Setia Indah, 81100, Johor Bahru, Johor.")
 st.write("**Email:** s23b0125@umk.edu.my")
 st.write("**Phone:** +60 11-6366 0289")
 st.write("[LinkedIn](https://linkedin.com/in/fatin-syazana-azhar)")
@@ -27,6 +28,10 @@ st.write("**Currently in fifth semester : Bachelor of Information Technology wit
 st.write("Expected Graduation: 2027")
 st.write("**Diploma in Database Management System Technology and Web Applications** - Kolej Vokasional Perdagangan Johor Bahru (KVPJB)")
 st.write("Graduated: 2023")
+st.write("**Sekolah Menengah Kebangsaan Taman Daya**")
+st.write("Pentaksiran Tingkatan Tiga (PT3) | 2017")
+st.write("**Sekolah Kebangsaan Taman Daya 3**")
+st.write("Ujian Pencapaian Sekolah Rendah (UPSR) | 2014")
 
 # --- Work Experience ---
 st.header("💼 Work Experience")
