@@ -2,8 +2,15 @@ import streamlit as st
 
 # --- Profile Section ---
 st.set_page_config(page_title="My Resume", layout="wide")
-st.image("formalfatin.JPG", width=150) 
-st.title("Fatin Syazana Binti Azhar") 
+
+# Create two columns
+col1, col2 = st.columns([1, 3])  # 1:3 ratio (image smaller, text wider)
+
+with col1:
+    st.image("formalfatin.JPG", width=150) 
+with col2:
+    st.title("Fatin Syazana Binti Azhar")
+
 st.markdown("---")
 
 # --- Contact Information ---
